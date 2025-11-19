@@ -1,9 +1,6 @@
 # F1 Podium Prediction Project  
 **Predicting Formula 1 podium finishes (2012–2025) using regularized logistic regression**
 
-![F1 car speeding on track  
-*(Photo by Patrick Robert Doyle on Unsplash)*
-
 ## Executive Summary  
 **Bottom line, up front:**  
 **Starting grid position beats everything else — by a mile.**  
